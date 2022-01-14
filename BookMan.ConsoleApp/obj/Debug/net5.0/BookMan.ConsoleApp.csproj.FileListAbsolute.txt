@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\BookMan.ConsoleApp.exe
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\BookMan.ConsoleApp.deps.json
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\BookMan.ConsoleApp.runtimeconfig.json
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\BookMan.ConsoleApp.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\BookMan.ConsoleApp.dll
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\ref\BookMan.ConsoleApp.dll
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\bin\Debug\net5.0\BookMan.ConsoleApp.pdb
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.dll
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\ref\BookMan.ConsoleApp.dll
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.pdb
+C:\Users\DELL\source\repos\BookMan\BookMan.ConsoleApp\obj\Debug\net5.0\BookMan.ConsoleApp.genruntimeconfig.cache
